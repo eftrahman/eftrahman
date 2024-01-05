@@ -1,8 +1,5 @@
-<h5 align="left">I'm Rinzler.</h5>
 
-###
-
-<h5 align="left">My name is Eftear Rahman. A Competitive Programmer.</h5>
+<h5 align="left">I'm Eftear Rahman. A Competitive Programmer.</h5>
 
 ###
 
