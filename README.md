@@ -1,12 +1,12 @@
 
-<h5 align="left">I'm Eftear Rahman. A Competitive Programmer.</h5>
+<h4 align="left">I'm Eftear Rahman. A Programmer.</h4>
 
 ###
 
 <h6 align="left">🔒 Learing Problems<br>🔐 Solving Problems</h6>
 
 ###
-<h5 align="left">Languages and Tools:</h5>
+<h4 align="left">Languages and Tools:</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -45,7 +45,7 @@
 
 ###
 
-<h5 align="left">Connect with me:</h5>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/eftrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eftrahman" height="30" width="40" /></a>
 <a href="https://kaggle.com/eftrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eftrahman" height="30" width="40" /></a>
