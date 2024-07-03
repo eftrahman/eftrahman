@@ -1,5 +1,5 @@
-<h2 align="center">I'm Eftear Rahman</h2>
-<h3 align="center">A Programmer</h3>
+<h2 align="left">I'm Eftear Rahman</h2>
+<h3 align="left">A Programmer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
