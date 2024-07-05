@@ -7,7 +7,7 @@
 
 ###
 <h4 align="left">Languages and Tools:</h4>
-<div align="left">
+<div align="middle">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -46,7 +46,7 @@
 ###
 
 <h4 align="left">Connect with me:</h4>
-<p align="left">
+<p align="middle">
 <a href="https://linkedin.com/in/eftrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eftrahman" height="30" width="40" /></a>
 <a href="https://kaggle.com/eftrahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eftrahman" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/eftrhaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eftrhaman" height="30" width="40" /></a>
