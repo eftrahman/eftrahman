@@ -40,12 +40,12 @@ strengths:
 <h3 align="center">🧠 Problem Solving • ⚔ Algorithms • 🖥 Programming</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EftearRahman&layout=donut&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EftearRahman&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eftrahman&layout=donut&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eftrahman&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EftearRahman&theme=tokyonight" width="90%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eftrahman&theme=tokyonight" width="90%"/>
 </p>
 
 ---
@@ -107,7 +107,7 @@ Curiosity                  █████████████████�
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EftearRahman&theme=react-dark&hide_border=true&area=true" width="95%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eftrahman&theme=react-dark&hide_border=true&area=true" width="95%">
 </p>
 
 ---
@@ -126,14 +126,14 @@ Curiosity                  █████████████████�
 ---
 
 <p align="center">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=EftearRahman" width="700"/>
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=eftrahman" width="700"/>
 </p>
 
 ---
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EftearRahman&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EftearRahman&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eftrahman&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=eftrahman&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -167,8 +167,8 @@ current_focus:
 ---
 
 <p align="center">
-  <a href="https://github.com/EftearRahman">
-    <img src="https://img.shields.io/badge/GitHub-EftearRahman-00f0ff?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/eftrahman">
+    <img src="https://img.shields.io/badge/eftrahman-00f0ff?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
