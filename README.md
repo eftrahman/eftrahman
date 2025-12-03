@@ -21,7 +21,7 @@
 
 ---
 
-# 🧬 **🛰️ SYSTEM PROFILE: EFTEAR RAHMAN**
+## 🧬 🛰️ SYSTEM PROFILE: EFTEAR RAHMAN
 
 ```yaml
 identity:
@@ -36,89 +36,103 @@ strengths:
   - designing_systems_step_by_step
   - building_clean_workflows
   - learning_new_tech_faster
-🔥 SKILL MATRIX VISUALIZER (ANIMATED)
 <h3 align="center">🧠 Problem Solving • ⚔ Algorithms • 🖥 Programming</h3> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EftearRahman&layout=donut&theme=tokyonight&hide_border=true" width="48%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EftearRahman&theme=tokyonight" width="48%"/> </p>
-🎮 POWER LEVEL CHART — GAMER STYLE
+
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EftearRahman&theme=tokyonight" width="90%"/> </p>
-⚔ PROGRAMMING SKILL BARS — CYBER THEME
-txt
-Copy code
+
 C Language                 ████████████░░░░░░░░░  75%
-C++ Competitive Coding    ███████████░░░░░░░░░░  72%
-Python                    ████████████████░░░░░  85%
-Django                    ██████████████░░░░░░░  78%
-MySQL                     ████████████░░░░░░░░░  70%
-Algorithms                ███████████░░░░░░░░░░  68%
-Web Development           ██████████░░░░░░░░░░░  60%
-Arduino + IoT             ████████░░░░░░░░░░░░░  55%
-Problem Solving           ███████████████████░░  90%
-Consistency               ████████████████████░  95%
-Curiosity                 █████████████████████  100%
-🛠 TECH ARSENAL — ICON GRID
+C++ Competitive Coding     ███████████░░░░░░░░░░  72%
+Python                     ████████████████░░░░░  85%
+Django                     ██████████████░░░░░░░  78%
+MySQL                      ████████████░░░░░░░░░  70%
+Algorithms                 ███████████░░░░░░░░░░  68%
+Web Development            ██████████░░░░░░░░░░░  60%
+Arduino + IoT              ████████░░░░░░░░░░░░░  55%
+Problem Solving            ███████████████████░░  90%
+Consistency                ████████████████████░  95%
+Curiosity                  █████████████████████  100%
+
 <p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python,django,mysql,html,css,js,git,github,arduino,vscode,linux" /> </p>
-🛰 HOLOGRAPHIC EXPERIENCE PANELS
+
 🔮 Backend Intelligence Module
-Python scripting
 
-Logic-driven workflows
+Python scripting & logic-heavy code
 
-Django authentication
+Django apps with:
 
-Dynamic updating (AJAX / HTMX style)
+Authentication & sessions
 
-REST-like architectures
+CRUD flows (create/read/update/delete)
 
-Building real production-like systems
+Task and status management
+
+Dynamic interactions (AJAX / HTMX-style behavior)
+
+Designing simple but robust backend architectures
 
 🔐 Problem Solving Engine
-Competitive coding in C/C++
+
+Competitive programming in C / C++
 
 Thinking in:
 
-Time complexities
+Time complexity (Big-O)
 
-Optimization paths
+Edge cases and constraints
 
-Data structures
+Data structures and algorithms
 
-Constraints analysis
+Optimization vs readability balance
 
 🧾 Automation Unit
-Excel parsing → preview → validation
 
-Bulk task importing
+Excel-based task importing systems
 
-Screenshot automation pipeline design
+Parsing, validation and preview-before-save flows
 
-Scheduled workflow concepts
+Designing pipelines for:
+
+Capturing & processing screenshots
+
+Validating data
+
+Generating reports/presentations
 
 🛰 IoT / Electronics Node
-Arduino Uno
 
-RFID (RC522)
+Arduino Uno experiments
 
-LCD (1602A I2C)
+RFID (RC522) access logic
 
-Buzzer interactions
+1602A LCD (with I2C) output
 
-Access control logic sequences
+Buzzer feedback logic
 
-📡 ACTIVITY GRAPH (LIVE FEED)
+Conceptual access control workflows:
+
+Scan → Validate → Signal → Display
+
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=EftearRahman&theme=react-dark&hide_border=true&area=true" width="95%"> </p>
 🧭 PROJECT & SYSTEM EXPERIENCE
-System Type	What You Built / Learned
-Task Workflow System	Status-based pipelines (New → Assigned → WIP → Completed), inline editing, controlled UI flows
-Data Upload System	Excel parsing, error reporting, confirm-save flows
-Meal Management App	Filtering, bulk update, Excel export, dashboard design
-Automation Concepts	Web/video screenshot processing pipeline
-RFID + Arduino	Access logic, LCD display interaction, buzzer alerting
-Web Development	Clean UI, template rendering, forms, validation
+System Type	What I Built / Learned
+Task Workflow System	Status-based pipelines (New → Assigned → Work in Progress → Completed), inline editing, status-controlled buttons
+Data Upload System	Excel parsing, validation, error reporting in table form, confirmation before save
+Meal Management App	Filtering entries, exporting to Excel, bulk status updates, dashboard-style data views
+Automation Concepts	Designing a pipeline for ad/webpage screenshots and compiling them into structured output
+RFID + Arduino	RFID-based access logic, LCD display updates, buzzer alerts
+Web Development	Clean UI using Django templates, forms, validation, minimalistic but functional interfaces
 
-🧿 VISUAL SKILL MAP — RADAR CHART
 <p align="center"> <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=EftearRahman" width="700"/> </p>
-🧨 CYBER ASCII SIGNATURE
-bash
-Copy code
+
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EftearRahman&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EftearRahman&theme=tokyonight&hide_border=true" /> </p>
+
+current_focus:
+  - mastering_algorithms_and_data_structures
+  - getting_faster_in_c_and_cpp_for_cp
+  - building_more_real_world_django_projects
+  - exploring_automation_for_repetitive_tasks
+  - combining_arduino_and_software_for_fun_projects
+
  ███████╗███████╗████████╗███████╗ █████╗ ██████╗ 
  ██╔════╝██╔════╝╚══██╔══╝██╔════╝██╔══██╗██╔══██╗
  ███████╗█████╗     ██║   █████╗  ███████║██████╔╝
@@ -129,23 +143,8 @@ Copy code
          E F T E A R   R A H M A N
        Programmer | Logical Thinker | Builder
      🔒 Learning Problems | 🔐 Solving Problems
-🛰 CONNECT WITH ME
+
+
 <p align="center"> <a href="https://github.com/EftearRahman"> <img src="https://img.shields.io/badge/GitHub-EftearRahman-00f0ff?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+
 <h2 align="center">⚡ I Don’t Just Code — I Evolve ⚡</h2> <p align="center"> <img src="https://raw.githubusercontent.com/Parply/Parply/main/assets/cyber-line.gif" width="70%" /> </p> <!-- ===================== END OF ULTRA README ===================== -->
-yaml
-Copy code
-
----
-
-# ⭐ Want EVEN MORE?
-
-I can add:
-
-🔥 **Animated cyberpunk banners with your name**  
-🧬 **Dynamic progress bars that change with visitors**  
-🎮 **A “LEVEL-UP TIMELINE” of your programming journey**  
-🧠 **Showcase panels for each major project**  
-🔋 **Energy-core themed skill batteries**  
-
-Just tell me **“Make it even bigger and more advanced”** —  
-and I’ll upgrade it again. 🚀💜
